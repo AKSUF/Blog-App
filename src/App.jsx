@@ -30,7 +30,7 @@ function App(){
         <BrowserRouter>
         <ToastContainer position = 'bottom-center' />
         <Routes >
-        <Route path = '/' element = { <Home/> } /> 
+        <Route path = '/Blog-App.github.io' element = { <Home/> } /> 
         <Route path = '/home' element = { <HomePage/> } /> 
         <Route path = '/categories/:categoryId' element = { <Categories/> } /> 
 

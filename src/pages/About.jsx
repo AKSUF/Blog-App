@@ -12,7 +12,8 @@ const About = () => {
 
 <Base >
         <h1> This is About Components </h1>
-         <p> We are Building blog </p>
+         <p> We are Buildin </p>
+         <p> We are Buildin </p>
 
 <h1>Welcome user:{user.name}</h1>
 <NewFeed/>
